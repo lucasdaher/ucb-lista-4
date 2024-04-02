@@ -1,4 +1,4 @@
-# Lista 4 de Linguagem C
+# Resolução da quarta lista
 Resolução dos 10 exercícios de linguagem C do professor William Malvezzi.
 
 > [!NOTE]
